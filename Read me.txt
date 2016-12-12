@@ -1,0 +1,3 @@
+It is an intelligent application developed on windows forms which tells you the best route of daewoo express for moving form one city to another on the basis of cheapest
+fare and shortest time .
+It uses dijkstra , BFS and DFS algorithms
